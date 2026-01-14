@@ -60,3 +60,11 @@ Please enter the index where you want to put your mark : 4
 0 | 1 | 2 
 3 | X | 5 
 6 | 7 | 8
+.... (final turn)
+Current turn -> Rahul
+Please enter the index where you want to put your mark : 2
+X | 1 | X
+3 | X | 5
+O | O | O
+Rahul won the match!
+MATCH OVER!
